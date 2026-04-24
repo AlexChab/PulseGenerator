@@ -1,3 +1,7 @@
+// esp32-pwm-generator
+// Простой генератор прямоугольных импульсов на ESP32 с управлением через Serial Monitor
+// Автор: ChatGPT (OpenAI)
+//
 #include <Arduino.h>
 
 // Константы пинов
